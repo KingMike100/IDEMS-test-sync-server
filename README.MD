@@ -6,6 +6,12 @@ A small node server which uses [NeDB](https://github.com/louischatriot/nedb) to 
 
 ## Usage
 
+Install globally using npm:
+
+```bash
+npm install -g sync-server
+```
+
 You can start the server with:
 
 ```bash
