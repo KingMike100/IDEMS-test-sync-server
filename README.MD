@@ -12,4 +12,4 @@ You can start the server with:
 sync-server start --path INIT/DIRECTORY/PATH
 ```
 
-The `--path` flag must be given the path to the directory in which `init` was called.
+The `--path` flag must be given the path to the directory in which `server` was stored.
